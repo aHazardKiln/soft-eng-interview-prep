@@ -4,5 +4,5 @@ The goal of this summary is to contain all the required theoretical material nee
 
 Start from [SUMMARY](https://github.com/orrsella/soft-eng-interview-prep/blob/master/SUMMARY.md). It's also available in [GitBook format](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/) for easier reading and navigation.
 
-Want to contribute? Great! Please read [CONTRIBUTING](https://github.com/orrsella/soft-eng-interview-prep/blob/master/CONTRIBUTING.md) first.
+Want to contribute? Great! Please read [CONTRIBUTING](https://github.com/orrsella/soft-eng-interview-prep/blob/master/CONTRIBUTING.md) first. 
 
