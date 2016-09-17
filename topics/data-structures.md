@@ -77,7 +77,7 @@ Use BST over hash table for:
 - A self-balancing binary search tree is any node-based binary search tree that automatically keeps its height small in the face of arbitrary item insertions and deletions.
 
 - **Red-Black Tree**
-    - Java's `TreeMap` is a Read-Black tree.
+    - Java's `TreeMap` is a Red-Black tree.
     - Self-balancing is provided by painting each node with one of two colors in such a way that the resulting painted tree satisfies certain properties that don't allow it to become significantly unbalanced.
     - When the tree is modified, the new tree is subsequently rearranged and repainted to restore the coloring properties.
     - The properties are designed in such a way that this rearranging and recoloring can be performed efficiently.
