@@ -53,6 +53,7 @@ result.get(); // blocking until the future completes
 ## Number Parsing
 
 ```java
+Integer.bitCount("num") == '1' //Counts the numbers of set bits
 // java.lang.NumberFormatException thrown for bad formatting:
 int i = Integer.parseInt("42");
 float f = Float.parseFloat("1.2");
